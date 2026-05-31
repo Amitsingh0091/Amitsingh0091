@@ -1,9 +1,21 @@
-Hello✋, My Name is Amit Kumar Singh i currently pursuing MCA from AKTU lucknow and i live in delhi
-I am a Front-End Developer who is learning and building projects using modern web technologies.  
-I focus on creating simple, functional, and user-friendly interfaces while improving my coding skills step by step.
+Hello✋, My Name is Amit Kumar Singh
+🚀 MCA Graduate | Full Stack Developer
+💻 Java | JavaScript | React | Node.js | MySQL
+📚 Passionate about Software Development & Problem Solving
+🌱 Continuously Learning New Technologies
+
+**About Me**
+I am an MCA graduate with a strong foundation in software development and web technologies. I enjoy building scalable and user-friendly applications using modern development tools and frameworks. My interests include full-stack web development, database management, and problem-solving. I am always eager to learn new technologies, improve my technical skills, and contribute to innovative projects that create real-world impact.
+
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amit__singh.04)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amit-singh-44832430a?utm_source=share_via&utm_content=profile&utm_medium=member_android)    [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yadavAtul91)   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitsinghbxr9128@gmail.com) 
+[![Instagram](https://www.instagram.com/amit__singh.0404?igsh=MWV6ZDBpMWIzOTF4dQ==)  
+
+[![LinkedIn](https://www.linkedin.com/in/amit-singh-44832430a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yadavAtul91)  
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitsinghbxr9128@gmail.com) 
 
 
 # 💻 Tech Skills:
